@@ -1,3 +1,5 @@
 # Content Management Scripts
 
 Scripts to assist accessioning prep, remediation, and indexing.
+
+This is a test repository.
